@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import NodejsSVG from '../assets/icons/backend/nodejs.svg?react';
 import TypeScriptSVG from "../assets/icons/backend/typescript.svg?react"
-import GithubSVG from "../assets/icons/various/gitHubDark.svg?react"
-import ReactSVG from "../assets/icons/frontend/reactDark.svg?react"
+import GithubSVG from "../assets/icons/various/githubdark.svg?react"
+import ReactSVG from "../assets/icons/frontend/reactdark.svg?react"
 import ViteSVG from "../assets/icons/frontend/vitejs.svg?react"
 import TailwindSVG from "../assets/icons/frontend/tailwindcss.svg?react"
 

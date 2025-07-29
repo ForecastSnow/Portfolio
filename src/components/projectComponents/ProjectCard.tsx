@@ -1,5 +1,5 @@
 import type { SVGProps } from "react";
-import GithubSVG from "../../assets/icons/various/GitHubDark.svg?react"
+import GithubSVG from "../../assets/icons/various/githubdark.svg?react"
 
 type ProjectCard = {
 

@@ -2,8 +2,8 @@ import { useState } from "react";
 import { ProjectCard } from "./projectComponents/ProjectCard.tsx";
 import NodejsSVG from "../assets/icons/backend/nodejs.svg?react";
 import TypeScriptSVG from "../assets/icons/backend/typescript.svg?react";
-import ExpressSVG from "../assets/icons/backend/expressDark.svg?react";
-import ReactSVG from "../assets/icons/frontend/reactDark.svg?react";
+import ExpressSVG from "../assets/icons/backend/expressdark.svg?react";
+import ReactSVG from "../assets/icons/frontend/reactdark.svg?react";
 import ViteSVG from "../assets/icons/frontend/vitejs.svg?react";
 
 const projects = [
